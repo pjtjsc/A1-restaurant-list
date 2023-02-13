@@ -18,6 +18,6 @@
 
 
 ### 開發工具
--Node.js
--Express 4.16.4
--Express-Handlebars 3.0.0
+- Node.js
+- Express 4.16.4
+- Express-Handlebars 3.0.0
